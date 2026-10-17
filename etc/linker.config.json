@@ -1,0 +1,11 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_dlmalloc-x86_64-v2.so",
+		    "libdummy_ext_dlmalloc.so",
+		    "libdummy_headers_ext_dlmalloc-x86_64-v2.so",
+		    "libdummy_headers_ext_dlmalloc.so",
+		    "libdummy_shared_dlmalloc-x86_64-v2.so",
+		    "libdummy_shared_dlmalloc.so"
+	],
+	"visible": true
+}
